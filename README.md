@@ -167,4 +167,4 @@ If you see “selector returned a different result” in dev tools, memoize sele
 
 ## 📄 License
 
-MIT © Your Name
+MIT © Sarg3n7
